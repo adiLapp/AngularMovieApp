@@ -1,0 +1,18 @@
+<br>
+
+    <div>
+        <p>admin ברוך הבא</p>
+    </div>
+    <hr>
+    <div (click)="onAddMovie()">
+        <p>הוספת סרט</p>
+    </div>
+    <hr>
+    <div *ngFor="let category of listOfCategorys">
+        <p (click)="onClick(category)">{{category}}</p>
+    </div>
+    <hr>
+    <div (click)="onExit()">
+        <p style="cursor: pointer;">יציאה</p>
+    </div>
+<hr>

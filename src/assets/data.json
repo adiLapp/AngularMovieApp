@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Avengers: Endgame",
+        "category": "אקשן",
+        "link": "https://www.imdb.com/title/tt4154796/?ref_=ttls_li_tt",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Top Gun: Maverick",
+        "category": "דרמה",
+        "link": "https://www.imdb.com/title/tt1745960/?ref_=ttls_li_tt",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNjNjYTUtYzUxZC00NTljLWExYjktZmI0ODQ3ODg5N2U3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+]

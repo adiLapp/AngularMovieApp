@@ -1,0 +1,19 @@
+
+
+<div class="col-md-3" class="sticky">
+    <pm-side-menu (value)="onNewSelection($event)"></pm-side-menu>
+   </div>
+  <div class="row">
+    <div class="col-md-9">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-4" *ngFor="let movie of selectedMovies ;let i = index">
+              <pm-movie-card [movie]="movie" [index]="i"></pm-movie-card>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+
